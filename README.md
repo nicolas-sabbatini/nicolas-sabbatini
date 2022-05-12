@@ -1,17 +1,17 @@
 # Hi! I'm Nico 👋.
 > He / Him
 
-I'm a fullstack developer from :argentina: Argentina :argentina: currently working at [@SantexGroup](https://github.com/SantexGroup).
-
 ## About me:
+I'm a fullstack developer from :argentina: Argentina :argentina: currently working at [@SantexGroup](https://github.com/SantexGroup).  
 I'm a highly enthusiastic developer, I love to code and explore new ideas. In my free time I like to swim and go on walks.  
 I have a great interest in ML, cellular automatas, emerging behaviors, and creative coding.
 
 ## Fun fact:
-  - I am a 🐶 dogs 🐶 person. (I would love to have one, but my apartment contract forbid it)
+  - I am a 🐶 dogs 🐶 person. (I would love to have one, but my apartment contract prohibits it)
   - My favorite programming language is 🦀 Rust 🦀.
-  - I am an NVIM user. (you can find all may configuration in my dot files repo)
-  - I am obsessed whit trying note taking apps.
+  - I am an NVIM user. (you can find all my configurations in my dotfiles repo)
+  - I am obsessed whit trying note-taking apps.
+  - I am currently in a crisis about my favorite hot beverage, between 🧉 MATE 🧉 o ☕ COFFEE ☕.
 
 ## How to reach me:
   - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-cesar-sabbatini-vrech-94a1b0163/)](https://www.linkedin.com/in/nicolas-cesar-sabbatini-vrech-94a1b0163/)
