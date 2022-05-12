@@ -1,10 +1,10 @@
 ### Hi! I'm Nico 👋.
-![views counter](https://komarev.com/ghpvc/?username=nicolas-sabbatini&style=for-the-badge)
-
-I'm a full stackdeveloper from :argentina: currently working at [@SantexGroup](https://santexgroup.com/).
+I'm a full stackdeveloper from :argentina: currently working at [@SantexGroup](https://github.com/SantexGroup).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-sabbatini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div id="header" align="center">
+  ![views counter](https://komarev.com/ghpvc/?username=nicolas-sabbatini&style=for-the-badge)
+<div id="header" align="right">
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
