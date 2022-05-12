@@ -1,11 +1,11 @@
 # Hi! I'm Nico 👋.
 > He / Him
 
-I'm a full stackdeveloper from :argentina: Argentina :argentina: currently working at [@SantexGroup](https://github.com/SantexGroup).
+I'm a fullstack developer from :argentina: Argentina :argentina: currently working at [@SantexGroup](https://github.com/SantexGroup).
 
 ## About me:
-I'm a highly enthusiastic developer, I love to code and exploring new ideas, in my free time I like to swim and go on walks.  
-I have a great interest in ML, celular automatas, emerging behaviors and creative coding.
+I'm a highly enthusiastic developer, I love to code and explore new ideas. In my free time I like to swim and go on walks.  
+I have a great interest in ML, cellular automatas, emerging behaviors, and creative coding.
 
 ## Fun fact:
   - I am a 🐶 dogs 🐶 person. (I would love to have one, but my apartment contract forbid it)
