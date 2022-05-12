@@ -11,7 +11,7 @@ I have a great interest in ML, cellular automatas, emerging behaviors, and creat
   - My favorite programming language is 🦀 Rust 🦀.
   - I am an NVIM user. (you can find all my configurations in my dotfiles repo)
   - I am obsessed whit trying note-taking apps.
-  - I am currently in a crisis about my favorite hot beverage, between 🧉 MATE 🧉 o ☕ COFFEE ☕.
+  - I am currently in a crisis about my favorite hot beverage, between 🧉 MATE 🧉 or ☕ COFFEE ☕.
 
 ## How to reach me:
   - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-cesar-sabbatini-vrech-94a1b0163/)](https://www.linkedin.com/in/nicolas-cesar-sabbatini-vrech-94a1b0163/)
