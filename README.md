@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi! I'm Nico 👋.
+![views counter](https://komarev.com/ghpvc/?username=nicolas-sabbatini&style=for-the-badge)
+
+I'm a full stackdeveloper from :argentina: currently working at [@SantexGroup](https://santexgroup.com/).
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-sabbatini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**nicolas-sabbatini/nicolas-sabbatini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
