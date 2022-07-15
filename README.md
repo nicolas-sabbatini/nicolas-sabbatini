@@ -2,9 +2,13 @@
 > He / Him
 
 ## About me:
-I'm a fullstack developer from :argentina: Argentina :argentina: currently working at [@SantexGroup](https://github.com/SantexGroup).  
+I'm a fullstack developer from :argentina: Argentina :argentina: currently working at [@MODO](https://github.com/playsistemico).  
 I'm a highly enthusiastic developer, I love to code and explore new ideas. In my free time I like to swim and go on walks.  
 I have a great interest in ML, cellular automatas, emerging behaviors, and creative coding.
+
+## Currently working:
+  - Job: Backend developer using [NestJS](https://nestjs.com/).
+  - Hobby: Game dev using [Rust](https://www.rust-lang.org/).
 
 ## Fun fact:
   - I am a 🐶 dogs 🐶 person. (I would love to have one, but my apartment contract prohibits it)
@@ -24,7 +28,7 @@ I have a great interest in ML, cellular automatas, emerging behaviors, and creat
 </div>
 
 <!--
-- 🔭 I’m currently working on ...
+- [x] 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
