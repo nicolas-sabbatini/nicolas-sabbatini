@@ -8,7 +8,13 @@ I have a great interest in ML, cellular automatas, emerging behaviors, and creat
 
 ## Currently working:
   - Job: Backend developer using [NestJS](https://nestjs.com/).
-  - Hobby: Game dev using [Rust](https://www.rust-lang.org/).
+  - Hobby:
+    - Game dev using [Rust](https://www.rust-lang.org/).
+    - Remixing random projects in [Rust](https://www.rust-lang.org/).
+
+## Currently lerning:
+  - 🦀 [Rust](https://www.rust-lang.org) 🦀.
+  - [Helix editor](https://helix-editor.com).
 
 ## Fun fact:
   - I am a 🐶 dogs 🐶 person. (I would love to have one, but my apartment contract prohibits it)
@@ -29,7 +35,7 @@ I have a great interest in ML, cellular automatas, emerging behaviors, and creat
 
 <!--
 - [x] 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- [x] 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
