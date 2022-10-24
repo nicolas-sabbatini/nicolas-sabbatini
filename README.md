@@ -14,7 +14,6 @@ I have a great interest in ML, cellular automatas, emerging behaviors, and creat
 
 ## Currently lerning:
   - 🦀 [Rust](https://www.rust-lang.org) 🦀.
-  - [Helix editor](https://helix-editor.com).
 
 ## Fun fact:
   - I am a 🐶 dogs 🐶 person. (I would love to have one, but my apartment contract prohibits it)
