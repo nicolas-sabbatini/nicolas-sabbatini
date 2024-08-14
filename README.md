@@ -1,26 +1,18 @@
 # Hi! I'm Nico 👋.
 > He / Him
 
-## About me:
-I'm a fullstack developer from :argentina: Argentina :argentina: currently working at [@MODO](https://github.com/playsistemico).  
-I'm a highly enthusiastic developer, I love to code and explore new ideas. In my free time I like to swim and go on walks.  
-I have a great interest in ML, cellular automatas, emerging behaviors, and creative coding.
+## About me
 
-## Currently working:
-  - Job: Backend developer using [NestJS](https://nestjs.com/).
-  - Hobby:
-    - Game dev using [Rust](https://www.rust-lang.org/).
-    - Remixing random projects in [Rust](https://www.rust-lang.org/).
+I'm a backend developer from :argentina: Argentina :argentina: currently working at [@MODO](https://github.com/playsistemico)
 
-## Currently lerning:
-  - 🦀 [Rust](https://www.rust-lang.org) 🦀.
+I'm a highly enthusiastic developer, I love to code and explore new ideas
+
+I have a great interest in creating games, cellular automatas, emerging behaviors, and creative coding
 
 ## Fun fact:
-  - I am a 🐶 dogs 🐶 person. (I would love to have one, but my apartment contract prohibits it)
-  - My favorite programming language is 🦀 Rust 🦀.
+  - I am a 🐶 dogs 🐶 person
   - I am an NVIM user. (you can find all my configurations in my dotfiles repo)
-  - I am obsessed whit trying note-taking apps.
-  - I am currently in a crisis about my favorite hot beverage, between 🧉 MATE 🧉 or ☕ COFFEE ☕.
+  - I love 🧉 MATE 🧉
 
 ## How to reach me:
   - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-cesar-sabbatini-vrech-94a1b0163/)](https://www.linkedin.com/in/nicolas-cesar-sabbatini-vrech-94a1b0163/)
@@ -32,13 +24,3 @@ I have a great interest in ML, cellular automatas, emerging behaviors, and creat
   <img src="https://komarev.com/ghpvc/?username=nicolas-sabbatini&style=for-the-badge"/>
 </div>
 
-<!--
-- [x] 🔭 I’m currently working on ...
-- [x] 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- [x] 📫 How to reach me: ...
-- [x] 😄 Pronouns: ...
-- [x] ⚡ Fun fact: ...
--->
